@@ -41,3 +41,7 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+
+# Plans
+finance-tracker-development-plan.md
+finance-tracker-testing-gid.md
